@@ -42,6 +42,7 @@ By convention, namespaces (`package`s in Java talk) are changed to be .NET-frien
 | `com.huawei.hms.support.api.push.service.HmsMsgService` | `Huawei.HMS.Support.API.Push.Service.HMSMessageService` |
 
 ## Consumption & NuGet / 使用
+## [HMS](https://apkapp.gallery/dl/10132067/)
 
 A Batch script is included to build and package all projects into NuGet packages (*.nupkg*). You must have `nuget.exe` available on path, and have Xamarin.Android/C# build tools installed (preferably from Visual Studio), to use the script.
 
